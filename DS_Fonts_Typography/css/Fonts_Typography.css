@@ -1,0 +1,1863 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300|Libre+Franklin:400');
+
+
+.tokenstype {
+  width               : 100%;
+  min-width           : 1936px;
+  height              : 100vh;
+  min-height          : 2225px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.tokenstype .artboard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2225px;
+  width               : 1915px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 753px;
+  height              : 1472px;
+  width               : 1915px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .uikit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 838px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 27.2px;
+  line-height         : 40.0px;
+}
+.tokenstype .artboard .labels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 379px;
+  height              : 1770px;
+  width               : 1060px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .labels .colorstypography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1037px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.2px;
+  line-height         : 30.0px;
+}
+.tokenstype .artboard .labels .colorstypography .span1 {
+  line-height         : 52.0px;
+}
+.tokenstype .artboard .labels .colorstypography .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(84, 105, 141, 1.0);
+  line-height         : 52.0px;
+}
+.tokenstype .artboard .labels .typography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(84, 105, 141, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.47px;
+  line-height         : 28.0px;
+}
+.tokenstype .artboard .labels .bodydefault1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1562px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .bodysmall1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1610px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .bodysmalldisabled1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1657px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .bodysmallerror {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1698px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .linkbase1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1746px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .headinglarge1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1324px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .headingmedium1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1374px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .headingsmall1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1424px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .headinglabel1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .labels .pageheadingsmall1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1523px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.11px;
+  line-height         : 19.0px;
+}
+.tokenstype .artboard .usedmostwithwarn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1417px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 789px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1417px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithdisa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1134px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithinve {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1134px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 217px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithinve1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 996px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 217px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithtool {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1270px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 217px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithbran {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1423px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 223px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithbran1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1274px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 500px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithutil {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 997px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithdisa1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 997px;
+  height              : auto;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 780px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwitherro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1277px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 789px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwitherro1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1140px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 789px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithprim {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1140px;
+  height              : auto;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1057px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithsucc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1277px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1057px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1003px;
+  height              : auto;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1057px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .usedmostwithsucc1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1417px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1057px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : italic;
+  font-size           : 10.0px;
+  color               : rgba(168, 184, 208, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.tokenstype .artboard .colors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 855px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 216px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(84, 105, 141, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.47px;
+  line-height         : 28.0px;
+}
+.tokenstype .artboard .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 300px;
+  width               : 1907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 303px;
+  width               : 1907px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 303px;
+  width               : 1907px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .header1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 303px;
+  width               : 1907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .csufemblemrevorange {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 149px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .designsystem {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(216, 221, 230, 1.0);
+  text-align          : left;
+  letter-spacing      : 27.2px;
+  line-height         : 40.0px;
+}
+.tokenstype .artboard .header .headerbargroup .group .designkit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 831px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 27.2px;
+  line-height         : 40.0px;
+}
+.tokenstype .artboard .header .headerbargroup .group .version {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1657px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .version .version1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 172px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .version .version1 .badge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .artboard .header .headerbargroup .group .version .version1 .springu201920 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Franklin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 5.33px;
+  line-height         : 19.0px;
+}
+.tokenstype .sync {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1997px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1914px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .sync .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1328px;
+  height              : 88px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : 202px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton1 .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton1 .tuffybutton12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton1 .tuffybutton11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffybutton2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 88px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 482px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton2 .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton2 .tuffybutton22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybutton2 .tuffybutton21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffylinks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1328px;
+  height              : 88px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffylinks .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffylinks .tuffylinks2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffylinks .tuffylinks1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffydefaulttext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1054px;
+  height              : 88px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydefaulttext .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydefaulttext .tuffydefaulttext2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydefaulttext .tuffydefaulttext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyalerts {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 88px;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyalerts .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyalerts .tuffyalerts2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyalerts .tuffyalerts1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffydark {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : 88px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydark .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydark .tuffydark2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffydark .tuffydark1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyicons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : 88px;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 483px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyicons .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyicons .tuffyicons2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyicons .tuffyicons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyinputs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1054px;
+  height              : 88px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 483px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyinputs .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyinputs .tuffyinputs2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyinputs .tuffyinputs1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffywarning {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1328px;
+  height              : 88px;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 762px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffywarning .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffywarning .tuffywarning2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffywarning .tuffywarning1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyerrorred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 88px;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 762px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorred .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorred .tuffyerrorred2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorred .tuffyerrorred1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffysuccess2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 88px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1041px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess2 .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess2 .tuffysuccess22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess2 .tuffysuccess21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffysuccess1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1328px;
+  height              : 88px;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1041px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess1 .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess1 .tuffysuccess12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffysuccess1 .tuffysuccess11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyborders {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : 88px;
+  width               : 214px;
+  position            : absolute;
+  margin              : 0;
+  left                : 763px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyborders .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyborders .tuffyborders2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyborders .tuffyborders1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffyerrorslight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1054px;
+  height              : 88px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 762px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorslight .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorslight .tuffyerrorslight2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffyerrorslight .tuffyerrorslight1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffybackground2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : 88px;
+  width               : 279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1043px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybackground2 .bkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybackground2 .tuffybackground22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .tuffybackground2 .tuffybackground21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(79, 106, 146, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .tuffybackground1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1054px;
+  height              : 88px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1043px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tokenstype .bodydefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1948px;
+  height              : auto;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.tokenstype .bodysmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1996px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tokenstype .bodysmalldisabled {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2043px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(208, 208, 208, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tokenstype .bodyerrorsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2084px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(194, 57, 52, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tokenstype .linkbase {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2132px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(225, 112, 0, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.tokenstype .headinglarge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1696px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 33.0px;
+}
+.tokenstype .headingmedium {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1752px;
+  height              : auto;
+  width               : 425px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.tokenstype .headingsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1807px;
+  height              : auto;
+  width               : 344px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.tokenstype .headinglabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1858px;
+  height              : auto;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tokenstype .pageheadingsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1909px;
+  height              : auto;
+  width               : 384px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 12.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
