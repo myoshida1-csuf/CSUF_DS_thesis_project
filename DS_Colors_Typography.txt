@@ -1,0 +1,104 @@
+COLORS & TYPOGRAPHY
+The Colors and Typography elements of my Design System are driven by CSUF’s web style standards. There are three primary CSUF colors - Blue, White, and Orange. The text follows typographic principles to establish a visual hierarchy and maximize the legibility of content.
+
+Typography
+
+Heading Large
+•	Roboto Regular
+•	Size 28
+•	Color - 00274C
+
+Heading Medium
+•	Roboto Regular
+•	Size 20
+•	Color - 00274C
+
+Heading Small
+•	Roboto Regular
+•	Size 16
+•	Color - 00274C
+
+Heading Label
+•	Roboto Regular
+•	Size 12
+•	Color - 719DCD
+
+Page Heading Small
+•	Roboto Regular
+•	Size 12
+•	Color - 719DCD
+
+Body Default
+•	Roboto Regular
+•	Size 13
+•	Color - 00274C
+
+Body Small
+•	Roboto Regular
+•	Size 12
+•	Color - D0D0D0
+
+Body Small Disabled
+•	Roboto Regular
+•	Size 12
+•	Color - C23934
+
+Body Small Error
+•	Roboto Regular
+•	Size 12
+•	Color - C23934
+
+Link Base
+•	Roboto Regular
+•	Size 13
+•	Color - E17000
+
+Colors
+
+Tuffy Dark - 002B54
+•	Used Most With: Inverse States
+
+Tuffy Default Text – 00274c
+•	Used Most With: Inverse States, Default Text
+
+Tuffy Alerts - 0F3C73
+•	Used Most With: Tooltips, Notification Badges
+
+Tuffy Button 1 - 0F3C73
+•	Used Most With: Brand Buttons, Focused /Hover
+
+Tuffy Icons - 0057AB
+•	Used Most With: Utility Icons, Action Labels, disabled text
+
+Tuffy Inputs – 719dcd
+•	Used Most With: Disabled Inputs with stroke
+
+Tuffy Button 2 – D0D0D0
+•	Used Most With: Brand Buttons
+
+Tuffy Links – 9DBED8
+•	Used Most With: Text Links
+
+Tuffy Borders – E17000
+•	Used Most With: Disabled States, Borders, Separators
+
+Tuffy Errors Light – EFEFEF
+•	Used Most With: Error States
+
+Tuffy Error Red – C23934
+•	Used Most With: Error States
+
+Tuffy Warning – F58220
+•	Used Most With: Warnings States
+
+Tuffy Background 2 – F7F7F7
+•	Used Most With: Cards, Secondary Background colors, disabled states
+
+Tuffy Background 1 – FFFFFF
+•	Used Most With: Primary Background Colors
+
+Tuffy Success 2 – 04844B
+•	Used Most With: Success disabled /hover
+
+Tuffy Success 1 – 4BCA81
+•	Used Most With: Success

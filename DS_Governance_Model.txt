@@ -1,0 +1,9 @@
+Design System Governance Model
+
+1. Designs must serve more than one solution unless it better serves the user experience
+
+2. Designs must not contradict existing patterns unless broad updates are made to reflect these new patterns throughout the design system
+
+3. Designs must be communicated to all individuals who use the design system
+
+4. Tuffy the Titan may ignore the guidelines if he wants to contribute to the design system

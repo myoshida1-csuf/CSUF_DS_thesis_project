@@ -1,0 +1,15 @@
+Components
+Basic components that leverage the CSUF’s web style standards and the Salesforce Lightning Design System spacing, shapes, and iconography.
+
+1.	Avatars
+2.	Buttons
+3.	Button Icons
+4.	Pills
+5.	Badge
+6.	Tabs
+7.	Breadcrumbs
+8.	Checkboxes
+9.	Inputs
+10.	Radio Button
+11.	Tooltips
+12.	Icons
