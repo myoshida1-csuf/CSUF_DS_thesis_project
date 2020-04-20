@@ -1,0 +1,564 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+
+
+.tabsoverflow {
+  width               : 100%;
+  min-width           : 572px;
+  height              : 100vh;
+  min-height          : 241px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.tabsoverflow .tabsoverflow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 246px;
+  width               : 573px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 2px;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .active2 {
+  background-color    : rgba(0, 112, 210, 1.0);
+  top                 : 26px;
+  height              : 2px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 423px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .itemtwo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .itemthree {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 222px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .itemfour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 332px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .more {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .itemone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 39, 76, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .placeholdertext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 15px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .placeholdertext .placeholdertext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(22, 50, 92, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.tabsoverflow .tabsoverflow1 .dropdown-view {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 6px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 474px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .dropdown-view .down {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 216px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 333px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .overflowbkgd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 216px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .xxxxx {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .overflow .rectangle47 {
+  background-color    : rgba(0, 87, 171, 1.0);
+  top                 : 14px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .rectangle471 {
+  background-color    : rgba(75, 202, 129, 1.0);
+  top                 : 54px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .approval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .rectangle472 {
+  background-color    : rgba(0, 39, 76, 1.0);
+  top                 : 94px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .lead {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .lead .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 7px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .lead .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .rectangle473 {
+  background-color    : rgba(113, 157, 205, 1.0);
+  top                 : 134px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .opportunity {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : 10px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .rectangle474 {
+  background-color    : rgba(245, 130, 32, 1.0);
+  top                 : 174px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .products {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .account {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 10px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabsoverflow .tabsoverflow1 .overflow .xxxxx1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .overflow .xxxxx2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 97px;
+  height              : auto;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .overflow .xxxxx3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : auto;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.tabsoverflow .tabsoverflow1 .overflow .xxxxx4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 177px;
+  height              : auto;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(113, 157, 205, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
